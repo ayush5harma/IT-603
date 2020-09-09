@@ -1,5 +1,12 @@
 # IT-603
 Natural Language Processing
+
+* ## Assignment 3 
+
+   **Instructions**    
+   
+   Import the tweets from tweepy and apply sentimental anlysis  
+   
 * ## Assignment 2  
 
    **Instructions**  
